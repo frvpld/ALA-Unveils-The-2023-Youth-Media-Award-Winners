@@ -1,0 +1,148 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Dragonfly Eyes",
+			"isbns": [
+				"9781536209990"
+
+			]
+		},
+		{
+			"label": "Stuntboy, in the meantime",
+			"isbns": [
+				"9781534418165",
+				"9781534418189"
+			]
+		},
+		{
+			"label": "Inheritance : a visual poem",
+			"isbns": [
+				"9780062931948",
+				"9780062931955"
+			]
+		},
+		{
+			"label": "Frizzy",
+			"isbns": [
+				"9781250259622"
+			]
+		},
+		{
+			"label": "The Coquíes Still Sing",
+			"isbns": [
+				"9781250787187"
+
+			]
+		},
+		{
+			"label": "The notebook keeper : a story of kindness from the border",
+			"isbns": [
+				"9780593307052",
+				"9780593307076"
+
+			]
+		},
+		{
+			"label": "Tumble",
+			"isbns": [
+				"9780593325179",
+				"9780593590393",
+				"9780593325193"
+			]
+		},
+		{
+			"label": "Burn down, Rise up",
+			"isbns": [
+				"9781728246000",
+				"9781728246017"
+
+			]
+		},
+		{
+			"label": "Breathe and count back from ten",
+			"isbns": [
+				"9780358536864",
+				"9780358536789"
+			]
+		},
+		{
+			"label": "High Spirits : Short Stories on Dominican Diaspora",
+			"isbns": [
+				"9781646141296"
+
+			]
+		},
+		{
+			"label": "The Lesbiana’s Guide to Catholic School",
+			"isbns": [
+				"9780063060234",
+				"9780063060289",
+				"9780063060272"
+			]
+		},
+		{
+			"label": "A Land of Books : Dreams of Young Mexihcah Word Painters",
+			"isbns": [
+				"9781419749421"
+
+			]
+		},
+		{
+			"label": "Phenomenal AOC : The Roots and Rise of Alexandria Ocasio-Cortez",
+			"isbns": [
+				"9780063113749"
+			]
+		},
+		{
+			"label": "Hot Dog",
+			"isbns": [
+				"9780593308431"
+
+			]
+		},
+		{
+			"label": "Ain't Burned all the Bright",
+			"isbns": [
+				"9781534439467",
+				"9781797137544",
+				"9781534439474"
+
+			]
+		},
+		{
+			"label": "Berry Song",
+			"isbns": [
+				"9780316494175"
+
+			]
+		},
+		{
+			"label": "Knight Owl",
+			"isbns": [
+				"9780316310628"
+
+			]
+		},
+		{
+			"label": "A Seed Grows",
+			"isbns": [
+				"9780823448920"
+
+			]
+		},
+		{
+			"label": "The Tower of Life: How Yaffa Eliach Rebuilt Her Town in Stories and Photographs",
+			"isbns": [
+				"9781338225891"
+			]
+		},
+		{
+			"label": "Listen: How Evely Glennie, a Deaf Girl, Changed Percussion",
+			"isbns": [
+				"9780593109694"
+
+			]
+		}
+	]
+}

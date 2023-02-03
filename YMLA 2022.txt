@@ -1,0 +1,183 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Free Water",
+			"isbns": [
+				"9780316056618",
+				"9780316447928"
+			]
+		},
+		{
+			"label": "A Lady’s Guide to Fortune-Hunting",
+			"isbns": [
+				"9780593491348",
+				"9780593491355",
+				"9780593590539"
+			]
+
+		},
+		{
+			"label": "Chef's Kiss",
+			"isbns": [
+				"9781620109045"
+
+			]
+		},
+		{
+			"label": "Daughter of the Moon Goddess",
+			"isbns": [
+				"9780063031302",
+				"9780063031357",
+				"9780063031326"
+			]
+		},
+		{
+			"label": "I'm Glad My Mom Died ",
+			"isbns": [
+				"9781982185824",
+				"9781797147949",
+				"9781982185848"
+			]
+		},
+		{
+			"label": "Solito",
+			"isbns": [
+				"9780593498064",
+				"9780593498071"
+
+			]
+		},
+		{
+			"label": "The Kaiju Preservation Society",
+			"isbns": [
+				"9780765389121",
+				"9780765389138"
+			]
+
+		},
+		{
+			"label": "True Biz",
+			"isbns": [
+				"9780593241509",
+				"9780593556122",
+				"9780593241516"
+			]
+		},
+		{
+			"label": "Wash Day Diaries",
+			"isbns": [
+				"9781797205458",
+				"9781797205847"
+			]
+		},
+		{
+			"label": "Standing in the need of prayer: a modern retellign of the classic spiritual",
+			"isbns": [
+				"9780593306345"
+
+			]
+		},
+		{
+			"label": "Me and the Boss: A Story about Mending and Love",
+			"isbns": [
+				"9780593310670"
+
+			]
+		},
+		{
+			"label": "Swim Team",
+			"isbns": [
+				"9780063056770",
+				"9780063056800"
+			]
+		},
+		{
+			"label": "Victory. Stand!: Raising My Fist for Justice",
+			"isbns": [
+				"9781324003908"
+			]
+		},
+		{
+			"label": "The Boyfriend Project",
+			"isbns": [
+				"9781538716625",
+				"9781538716632"
+			]
+		},
+		{
+			"label": "We Deserve Monuments",
+			"isbns": [
+				"9781250816559",
+				"9781250816566"
+
+			]
+		},
+		{
+			"label": "Iveliz Explains It All",
+			"isbns": [
+				"9780593563977",
+				"9780593563991"
+			]
+		},
+		{
+			"label": "The Last Mapmaker",
+			"isbns": [
+				"9781536204957",
+				"9781667068220",
+				"9781536224665"
+
+			]
+		},
+		{
+			"label": "Maizy Chen's Last Chance",
+			"isbns": [
+				"9781984830258",
+				"9780593505755",
+				"9781984830289"
+
+			]
+		},
+		{
+			"label": "Long way down : The Graphic Novel",
+			"isbns": [
+				"1534444955"
+
+			]
+		},
+		{
+			"label": "All American Boys",
+			"isbns": [
+				"9781481463331",
+				"9781442398672",
+				"9781481463355"
+			]
+
+		},
+		{
+			"label": "When I was the greatest",
+			"isbns": [
+				"9781442459472",
+				"9780553395723"
+			]
+
+		},
+		{
+			"label": "All My Rage",
+			"isbns": [
+				"9780593202340",
+				"9780593502235",
+				"9780593202357"
+			]
+
+		},
+		{
+			"label": "Just a girl : a true story of World War II",
+			"isbns": [
+				"9780063065086"
+
+
+			]
+		}
+	]
+}
