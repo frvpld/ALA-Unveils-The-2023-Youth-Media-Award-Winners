@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Michael L. Printz Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "All my rage",
