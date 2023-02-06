@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Schneider Family Book Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Listen: How Evely Glennie, a Deaf Girl, Changed Percussion",
