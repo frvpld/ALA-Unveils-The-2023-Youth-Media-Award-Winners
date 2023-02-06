@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Coretta Scott King (Author) Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Free Water",
