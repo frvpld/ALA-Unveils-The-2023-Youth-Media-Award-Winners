@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Randolph Caldecott Medal",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Hot Dog",
