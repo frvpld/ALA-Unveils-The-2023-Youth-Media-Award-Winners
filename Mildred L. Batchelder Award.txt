@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Mildred L. Batchelder Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Just a Girl: A True Story of World War II",
