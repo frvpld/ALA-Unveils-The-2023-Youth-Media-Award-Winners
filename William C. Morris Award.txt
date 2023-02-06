@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "William C. Morris Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "The Lesbiana’s Guide to Catholic School",
