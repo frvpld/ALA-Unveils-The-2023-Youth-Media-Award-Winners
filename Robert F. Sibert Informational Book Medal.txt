@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Robert F. Sibert Informational Book Medal",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "A seed grows",
