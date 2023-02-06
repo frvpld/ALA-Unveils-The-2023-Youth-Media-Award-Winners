@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Sydney Taylor Book Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "The tower of life : how Yaffa Eliach rebuilt her town in stories and photographs",
