@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Margaret A. Edwards Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Long way down : the graphic novel",
