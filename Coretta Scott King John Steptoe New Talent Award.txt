@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Coretta Scott King John Steptoe New Talent Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "We deserve monuments",
