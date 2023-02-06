@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Pura Belpré Young Adult Author Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Burn down, Rise up",
