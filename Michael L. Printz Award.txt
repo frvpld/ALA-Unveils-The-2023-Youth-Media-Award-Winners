@@ -28,7 +28,7 @@
 		{
 			"label": "Queer Ducks (and Other Animals): The Natural World of Animal Sexuality",
 			"isbns": [
-				"9780063069497"
+				"9780063069497",
 				"9780063069510"
 			
 
