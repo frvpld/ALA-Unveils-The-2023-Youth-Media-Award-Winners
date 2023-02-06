@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Pura Belpré Children’s Author Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			
