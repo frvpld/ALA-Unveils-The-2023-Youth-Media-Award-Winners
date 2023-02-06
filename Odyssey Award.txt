@@ -1,5 +1,5 @@
 {
-	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"label": "Odyssey Award",
 	"description": "2023 Youth Media Award Winners",
 	"list": [{
 			"label": "Stuntboy, in the meantime",
