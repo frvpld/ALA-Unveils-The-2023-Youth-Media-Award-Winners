@@ -1,0 +1,14 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "We deserve monuments",
+			"isbns": [
+				"9781250816559",
+				"9781250816566"
+			
+
+			]
+		}
+	]
+}

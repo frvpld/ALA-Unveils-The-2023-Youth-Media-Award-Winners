@@ -1,0 +1,45 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "From the tops of the trees",
+			"isbns": [
+				"9781541581302"
+				
+			]
+		},
+		{
+			"label": "Maizy Chen's last chance",
+			"isbns": [
+				"9781984830258",
+				"9780593505755",
+				"9781984830289"
+			]
+
+		},
+		{
+			"label": "Himawari House",
+			"isbns": [
+				"9781250235565"
+
+			]
+		},
+		{
+			"label": "Nana, Nenek & Nina",
+			"isbns": [
+				"9780593353943"
+				
+			]
+		},
+		{
+			"label": "The silence that binds us",
+			"isbns": [
+				"9780063059344",
+				"9780063059368"
+				
+		
+
+			]
+		}
+	]
+}

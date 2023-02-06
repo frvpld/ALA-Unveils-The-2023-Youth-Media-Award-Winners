@@ -1,0 +1,34 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "I did it!",
+			"isbns": [
+				"9780823446513"
+
+			]
+		},
+		{
+			"label": "Gigi and Ojiji",
+			"isbns": [
+				"9780063208063"
+				
+			]
+		},
+		{
+			"label": "Owl and Penguin",
+			"isbns": [
+				"9780823451500"
+				
+			]
+		},
+		{
+			"label": "A Seed Grows",
+			"isbns": [
+				"9780823448920"
+			
+
+			]
+		}
+	]
+}

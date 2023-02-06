@@ -1,0 +1,21 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Just a Girl: A True Story of World War II",
+			"isbns": [
+				"9780063065086"
+				
+			]
+		},
+		{
+			"label": "Dragonfly Eyes",
+			"isbns": [
+				"9781536209990"
+				
+			
+
+			]
+		}
+	]
+}

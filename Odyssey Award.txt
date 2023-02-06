@@ -1,0 +1,20 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Stuntboy, in the meantime",
+			"isbns": [
+				"9781534418165",
+				"9781534418189"
+			]
+		},
+		{
+			"label": "Inheritance : a visual poem",
+			"isbns": [
+				"9780062931948",
+				"9780062931955"
+			
+			]
+		}
+	]
+}

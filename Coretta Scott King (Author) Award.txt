@@ -1,0 +1,29 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Free Water",
+			"isbns": [
+				"9780316056618",
+				"9780316447928"
+			]
+		},
+		{
+			"label": "The Talk",
+			"isbns": [
+				"9781534495296"
+				
+			]
+
+		},
+		{
+			"label": "Star child : a biographical constellation of Octavia Estelle Butler",
+			"isbns": [
+				"9780399187384"
+
+			
+
+			]
+		}
+	]
+}

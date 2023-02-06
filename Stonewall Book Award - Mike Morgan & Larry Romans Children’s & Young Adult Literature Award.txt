@@ -1,0 +1,73 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Love, Violet",
+			"isbns": [
+				"9780374313722"
+
+			]
+		},
+		{
+			"label": "In the key of us",
+			"isbns": [
+				"9780374314101",
+				"9780374314125"
+			]
+		},
+		{
+			"label": "Kapaemahu",
+			"isbns": [
+				"9780593530061"
+				
+			]
+		},
+		{
+			"label": "The real Riley Mayes",
+			"isbns": [
+				"9780062995742"
+			]
+		},
+		{
+			"label": "Strong",
+			"isbns": [
+				"9780316292900"
+
+			]
+		},
+		{
+			"label": "I kissed Shara Wheeler : a novel",
+			"isbns": [
+				"9781250244451",
+				"9781250854186",
+				"9781250244468"
+
+
+			]
+		},
+		{
+			"label": "Kings of B'more",
+			"isbns": [
+				"9780593326206"
+				
+			]
+		},
+		{
+			"label": "Man o'War",
+			"isbns": [
+				"9780593353707",
+				"9780593353714"
+
+			]
+		},
+		{
+			"label": "The Summer of Bitter and Sweet",
+			"isbns": [
+				"9780063086166",
+				"9780063086180"
+			
+
+			]
+		}
+	]
+}

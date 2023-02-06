@@ -1,0 +1,35 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			
+			"label": "Frizzy",
+			"isbns": [
+				"9781250259622"
+			]
+		},
+		{
+			"label": "The Coquíes Still Sing",
+			"isbns": [
+				"9781250787187"
+
+			]
+		},
+		{
+			"label": "The notebook keeper : a story of kindness from the border",
+			"isbns": [
+				"9780593307052",
+				"9780593307076"
+
+			]
+		},
+		{
+			"label": "Tumble",
+			"isbns": [
+				"9780593325179",
+				"9780593590393",
+				"9780593325193"
+			]
+		}
+	]
+}

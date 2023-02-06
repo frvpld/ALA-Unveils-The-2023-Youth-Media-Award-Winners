@@ -1,0 +1,37 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Standing in the Need of Prayer: A Modern Retelling of the Classic Spiritual",
+			"isbns": [
+				"9780593306345"
+				
+			]
+		},
+		{
+			"label": "Me and the Boss: A Story about Mending and Love",
+			"isbns": [
+				"9780593310670"
+				
+			]
+
+		},
+		{
+			"label": "Swim Team",
+			"isbns": [
+				"9780063056770",
+				"9780063056800"
+
+			]
+		},
+		{
+			"label": "Victory. Stand!: Raising My Fist for Justice",
+			"isbns": [
+				"9781324003908"
+			
+
+
+			]
+		}
+	]
+}

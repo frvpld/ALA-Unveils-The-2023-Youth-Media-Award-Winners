@@ -1,0 +1,50 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "The tower of life : how Yaffa Eliach rebuilt her town in stories and photographs",
+			"isbns": [
+				"9781338225891"
+
+			]
+		},
+		{
+			"label": "Aviva vs. the Dybbuk",
+			"isbns": [
+				"9781646141258"
+
+			]
+		},
+		{
+			"label": "Honey and Me",
+			"isbns": [
+				"9781338155433"
+
+			]
+		},
+		{
+			"label": "Black Bird, Blue Road",
+			"isbns": [
+				"9780358572039",
+				"9780358571889"
+			]
+		},
+		{
+			"label": "Ellen outside the lines",
+			"isbns": [
+				"9780759556270"
+			]
+		},
+		{
+			"label": "My Fine Fellow",
+			"isbns": [
+				"9780063047532"
+			
+		
+				
+				
+			
+			]
+		}
+	]
+}

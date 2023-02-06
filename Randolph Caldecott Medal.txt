@@ -1,0 +1,35 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Hot Dog",
+			"isbns": [
+				"9780593308431"
+				
+			]
+		},
+		{
+			"label": "Ain't burned all the bright",
+			"isbns": [
+				"9781534439467",
+				"9781797137544",
+				"9781534439474"
+			]
+
+		},
+		{
+			"label": "Berry song",
+			"isbns": [
+				"9780316494175"
+
+			]
+		},
+		{
+			"label": "Knight Owl",
+			"isbns": [
+				"9780316310628"
+			
+			]
+		}
+	]
+}

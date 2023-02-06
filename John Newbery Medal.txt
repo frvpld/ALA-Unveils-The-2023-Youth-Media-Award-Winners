@@ -1,0 +1,69 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Free Water",
+			"isbns": [
+				"9780316056618",
+				"9780316447928"
+			]
+		},
+		{
+			"label": "Iveliz Explains It All",
+			"isbns": [
+				"9780593563977",
+				"9780593563991"
+				
+			]
+
+		},
+		{
+			"label": "The last mapmaker",
+			"isbns": [
+				"9781536204957",
+				"9781667068220",
+				"9781536224665"
+
+
+			]
+		},
+		{
+			"label": "Maizy Chen’s Last Chance",
+			"isbns": [
+				"9781984830258",
+				"9780593505755",
+				"9781984830289"
+			
+
+			]
+		},
+		{
+			"label": "Iveliz Explains It All",
+			"isbns": [
+				"9780593563977",
+				"9780593563991"
+			]
+		},
+		{
+			"label": "The Last Mapmaker",
+			"isbns": [
+				"9781536204957",
+				"9781667068220",
+				"9781536224665"
+
+			]
+		},
+		{
+			"label": "Maizy Chen's Last Chance",
+			"isbns": [
+				"9781984830258",
+				"9780593505755",
+				"9781984830289"
+
+
+
+
+			]
+		}
+	]
+}

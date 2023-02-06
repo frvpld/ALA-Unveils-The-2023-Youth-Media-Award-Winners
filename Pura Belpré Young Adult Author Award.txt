@@ -1,0 +1,37 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Burn down, Rise up",
+			"isbns": [
+				"9781728246000",
+				"9781728246017"
+
+			]
+		},
+		{
+			"label": "Breathe and count back from ten",
+			"isbns": [
+				"9780358536864",
+				"9780358536789"
+			]
+		},
+		{
+			"label": "High Spirits : Short Stories on Dominican Diaspora",
+			"isbns": [
+				"9781646141296"
+
+			]
+		},
+		{
+			"label": "The Lesbiana’s Guide to Catholic School",
+			"isbns": [
+				"9780063060234",
+				"9780063060289",
+				"9780063060272"
+
+			]
+		}
+	]
+}
+			

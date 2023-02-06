@@ -1,0 +1,34 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Victory. Stand!: Raising My Fist for Justice",
+			"isbns": [
+				"9781324003908"
+
+			]
+		},
+		{
+			"label": "A Face for Picasso : Coming of Age with Crouzon Syndrome",
+			"isbns": [
+				"37431407"
+				
+			]
+		},
+		{
+			"label": "American Murderer : The Parasite that Haunted the South",
+			"isbns": [
+				"9781684378159"
+				
+			]
+		},
+		{
+			"label": "Unequal : a story of America",
+			"isbns": [
+				"9780759557017"
+			
+
+			]
+		}
+	]
+}

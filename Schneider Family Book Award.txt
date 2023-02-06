@@ -1,0 +1,59 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Listen: How Evely Glennie, a Deaf Girl, Changed Percussion",
+			"isbns": [
+				"9780593109694"
+
+			]
+		},
+		{
+			"label": "Wildoak",
+			"isbns": [
+				"9781338803860",
+				"9781338876932",
+				"9781338803884"
+			]
+		},
+		{
+			"label": "The Words We Keep",
+			"isbns": [
+				"9781984848864"
+				
+			]
+		},
+		{
+			"label": "In the Blue",
+			"isbns": [
+				"9780316497626"
+			
+
+			]
+		},
+		{
+			"label": "Honestly Elliott",
+			"isbns": [
+				"9781547606252",
+				"9781547606269"
+				
+			]
+		},
+		{
+			"label": "Hummingbird",
+			"isbns": [
+				"9781338654585"
+				
+			]
+		},
+		{
+			"label": "Breathe and count back from ten",
+			"isbns": [
+				"9780358536864",
+				"9780358536789"
+			
+
+			]
+		}
+	]
+}

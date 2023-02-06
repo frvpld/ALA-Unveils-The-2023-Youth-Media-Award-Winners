@@ -1,0 +1,38 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "All my rage",
+			"isbns": [
+				"9780593202340",
+				"9780593502235",
+				"9780593202357"
+
+
+			]
+		},
+		{
+			"label": "Scout’s Honor",
+			"isbns": [
+				"9781250246738"
+				
+			]
+		},
+		{
+			"label": "Icebreaker",
+			"isbns": [
+				"9781250777126"
+				
+			]
+		},
+		{
+			"label": "Queer Ducks (and Other Animals): The Natural World of Animal Sexuality",
+			"isbns": [
+				"9780063069497"
+				"9780063069510"
+			
+
+			]
+		}
+	]
+}

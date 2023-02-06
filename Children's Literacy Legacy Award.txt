@@ -1,0 +1,27 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Uncle Jed's Barbershop",
+			"isbns": [
+				"0671769693"
+
+			]
+		},
+		{
+			"label": "The Bell Rang",
+			"isbns": [
+				"9781442421134"
+				
+			]
+		},
+		{
+			"label": "Before she was Harriet",
+			"isbns": [
+				"9780823420476"
+		
+
+			]
+		}
+	]
+}

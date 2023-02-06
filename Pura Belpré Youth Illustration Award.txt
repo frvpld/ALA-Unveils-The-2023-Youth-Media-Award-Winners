@@ -1,0 +1,31 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "The Coquíes Still Sing",
+			"isbns": [
+				"9781250787187"
+				
+			]
+		},
+		{
+			"label": "A land of books : dreams of young Mexihcah word painters",
+			"isbns": [
+				"9781419749421",
+				"9780593491355",
+				"9780593590539"
+			]
+
+		},
+		{
+			"label": "Phenomenal AOC : the roots and rise of Alexandria Ocasio-Cortez",
+			"isbns": [
+				"9780063113749"
+
+			
+
+
+			]
+		}
+	]
+}

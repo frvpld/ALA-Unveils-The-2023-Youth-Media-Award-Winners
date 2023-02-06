@@ -1,0 +1,38 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "The Lesbiana’s Guide to Catholic School",
+			"isbns": [
+				"9780063060234",
+				"9780063060289",
+				"9780063060272"
+
+
+			]
+		},
+		{
+			"label": "Wake the bones",
+			"isbns": [
+				"9781250790828",
+				"9781534418189"
+			]
+		},
+		{
+			"label": "Hell followed with us",
+			"isbns": [
+				"9781682633243",
+				"9781682634493"
+			]
+		},
+		{
+			"label": "The Summer of Bitter and Sweet",
+			"isbns": [
+				"9780063086166",
+				"9780063086180"
+			
+
+			]
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+			"label": "Long way down : the graphic novel",
+			"isbns": [
+				"1534444955"
+				
+			]
+		},
+		{
+			"label": "All American boys",
+			"isbns": [
+				"9781481463331",
+				"9781442398672",
+				"9781481463355"
+			]
+
+		},
+		{
+			"label": "When I was the greatest",
+			"isbns": [
+				"9781442459472",
+				"9780553395723"
+
+			
+
+			]
+		}
+	]
+}
