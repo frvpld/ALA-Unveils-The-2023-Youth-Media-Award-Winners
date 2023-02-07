@@ -16,7 +16,7 @@
 			]
 		},
 		{
-			"label": "The notebook keeper : a story of kindness from the border",
+			"label": "The Notebook Keeper: A Story of Kindness From the Border",
 			"isbns": [
 				"9780593307052",
 				"9780593307076"
