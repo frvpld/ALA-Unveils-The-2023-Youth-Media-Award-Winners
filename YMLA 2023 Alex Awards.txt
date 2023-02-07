@@ -1,0 +1,71 @@
+{
+	"label": "ALA Unveils The 2023 Youth Media Award Winners",
+	"description": "2023 Youth Media Award Winners",
+	"list": [{
+		
+			"label": "A Lady’s Guide to Fortune-Hunting",
+			"isbns": [
+				"9780593491348",
+				"9780593491355",
+				"9780593590539"
+			]
+
+		},
+		{
+			"label": "Chef's Kiss",
+			"isbns": [
+				"9781620109045"
+
+			]
+		},
+		{
+			"label": "Daughter of the Moon Goddess",
+			"isbns": [
+				"9780063031302",
+				"9780063031357",
+				"9780063031326"
+			]
+		},
+		{
+			"label": "I'm Glad My Mom Died ",
+			"isbns": [
+				"9781982185824",
+				"9781797147949",
+				"9781982185848"
+			]
+		},
+		{
+			"label": "Solito",
+			"isbns": [
+				"9780593498064",
+				"9780593498071"
+
+			]
+		},
+		{
+			"label": "The Kaiju Preservation Society",
+			"isbns": [
+				"9780765389121",
+				"9780765389138"
+			]
+
+		},
+		{
+			"label": "True Biz",
+			"isbns": [
+				"9780593241509",
+				"9780593556122",
+				"9780593241516"
+			]
+		},
+		{
+			"label": "Wash Day Diaries",
+			"isbns": [
+				"9781797205458"
+			
+
+
+			]
+		}
+	]
+}
