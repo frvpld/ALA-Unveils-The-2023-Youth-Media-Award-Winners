@@ -11,9 +11,7 @@
 		{
 			"label": "A land of books : dreams of young Mexihcah word painters",
 			"isbns": [
-				"9781419749421",
-				"9780593491355",
-				"9780593590539"
+				"9781419749421"
 			]
 
 		},
