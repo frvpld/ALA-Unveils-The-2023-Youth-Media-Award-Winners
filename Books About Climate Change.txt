@@ -12,102 +12,102 @@
 			"label": "Living without plastic : more than 100 easy swaps for home, travel, dining, holidays, and beyond",
 			"isbns": [
 				"9781579659400"
-				
+
 			]
 		},
 		{
 			"label": "Wise craft : turning thrift store finds, fabric scraps, and natural objects into stuff you love",
 			"isbns": [
 				"9780762449699"
-				
+
 			]
 		},
 		{
 			"label": "At home with nature : a guide to sustainable, natural landscaping",
 			"isbns": [
 				"9781682687093"
-]
+			]
 		},
 		{
 			"label": "Go green, spend less, live better : the ultimate guide to saving the planet, saving money, and protecting your health",
 			"isbns": [
 				"9781620872109"
-				
+
 			]
 		},
 		{
 			"label": "No one is too small to make a difference",
 			"isbns": [
 				"9780143133568"
-				
+
 			]
 		},
 		{
 			"label": "Grow now : how we can save our health, communities, and planet--one garden at a time",
 			"isbns": [
 				"9781643260471"
-]
+			]
 		},
 		{
 			"label": "Organizing for the rest of us : 100 realistic strategies to keep any house under control",
 			"isbns": [
 				"9781400231430"
-				
+
 			]
 		},
 		{
 			"label": "Simply sustainable : moving toward plastic-free, low-waste living",
 			"isbns": [
 				"9781984859136"
-				
+
 			]
 		},
 		{
 			"label": "Plastic Detox : 5 x 10 ideas para reducir el plástico en tu día a día",
 			"isbns": [
 				"9786070763793"
-]
+			]
 		},
 		{
 			"label": "The story of more : how we got to climate change and where to go from here",
 			"isbns": [
 				"9780525563389"
-				
+
 			]
 		},
 		{
 			"label": "How to avoid a climate disaster : the solutions we have and the breakthroughs we need",
 			"isbns": [
 				"9780385546133"
-				
+
 			]
 		},
 		{
 			"label": "We are the weather: saving the planet begins at breakfast",
 			"isbns": [
 				"9780374280000"
-]
+			]
 		},
 		{
 			"label": "Hurricane lizards and plastic squid : the fraught and fascinating biology of climate change",
 			"isbns": [
 				"9781541672420"
-]
+			]
 		},
 		{
 			"label": "The last winter : the scientists, adventurers, journeymen, and mavericks trying to save the world",
 			"isbns": [
 				"9780316460927"
-				
+
 			]
 		},
 		{
 			"label": "Cómo evitar un desastre climático : las soluciones que ya tenemos y los avances que aún necesitamos",
 			"isbns": [
 				"0593082788"
-				
-		
-			
+
+
+
 
 			]
 		}
