@@ -1,0 +1,121 @@
+{
+	"label": "Plant Based Cookbooks",
+	"description": "Plant Based Cookbooks in English and Spanish",
+	"list": [{
+			"label": "The Gracias Madre cookbook : bright, plant-based recipes from our Mexi-Cali kitchen",
+			"isbns": [
+				"9780593084229"
+				
+			]
+		},
+		{
+			"label": "The complete plant-based cookbook : 500 inspired, flexible recipes for eating well without meat",
+			"isbns": [
+				"9781948703369"
+				
+			]
+
+		},
+		{
+			"label": "The Herbivorous Butcher cookbook : 75+ recipes for plant-based meats and all the dishes you can make with them",
+			"isbns": [
+				"9781797211954"
+
+]
+		},
+		{
+			"label": "Plant over processed : 75 simple & delicious plant-based recipes for nourishing your body and eating from the earth",
+			"isbns": [
+				"9780062986511"
+				
+			]
+
+		},
+		{
+			"label": "Vegan, at times : 120+ recipes for every day or every so often",
+			"isbns": [
+				"9781982149574"
+			
+			]
+		},
+		{
+			"label": "Liv B's vegan on a budget : 112 inspired & efffortless plant-based recipes",
+			"isbns": [
+				"9780778806257"
+				
+			]
+
+		},
+		{
+			"label": "The Herbivorous Butcher cookbook : 75+ recipes for plant-based meats and all the dishes you can make with them",
+			"isbns": [
+				"9781797211954"
+
+			]
+		},
+		{
+			"label": "Deliciously Ella. Mi libro de cocina vegana : 100 recetas plant-based sencillas, sanas y deliciosas",
+			"isbns": [
+				"9788418107153"
+				
+			]
+
+		},
+		{
+			"label": "Running on veggies : plant-powered recipes for fueling and feeling your best",
+			"isbns": [
+				"9780593231715"
+				
+			]
+		},
+		{
+			"label": "Vegetarian Chinese soul food : deliciously doable ways to cook greens, tofu, and other plant-based ingredients",
+			"isbns": [
+				"9781632173331"
+				
+			]
+
+		},
+		{
+			"label": "Practically vegan : more than 100 easy, delicious vegan dinners on a budget",
+			"isbns": [
+				"9780593233405"
+
+			]
+		},
+		{
+			"label": "Omari McQueen's best bites cookbook",
+			"isbns": [
+				"9781499812619"
+				
+			]
+
+		},
+		{
+			"label": "The Weekday Vegetarians",
+			"isbns": [
+				"9780593138748"
+			
+			]
+		},
+		{
+			"label": "Dada eats love to cook it : 100 plant-based recipes for everyone at your table",
+			"isbns": [
+				"9780593138236"
+				
+			]
+
+		},
+		{
+			"label": "East meets vegan : the best of Asian home cooking, plant-based and delicious",
+			"isbns": [
+				"9781615195633"
+
+		
+	
+
+
+			]
+		}
+	]
+}
