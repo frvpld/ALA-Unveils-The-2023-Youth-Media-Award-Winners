@@ -1,6 +1,6 @@
 {
-	"label": "Books About Sustainability and Everything Good",
-	"description": "Books About Sustainability",
+	"label": "Books About Climate Change for Kids",
+	"description": "Climate Change Books for Kids",
 	"list": [{
 			"label": "Meltdown : discover Earth's ireplaceable glaciers and learn what you can do to save them",
 			"isbns": [
