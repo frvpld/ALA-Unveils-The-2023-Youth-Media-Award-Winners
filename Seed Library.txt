@@ -1,0 +1,63 @@
+{
+	"label": "Celebrate Earth Reading Challenge",
+	"description": "Seed Library",
+	"list": [{
+			"label": "Succulents Simplified",
+			"isbns": [
+				"9781604693935"
+
+			]
+		},
+		{
+			"label": "Gardentopia",
+			"isbns": [
+				"9781682683965"
+				
+			]
+		},
+		{
+			"label": "The Elegant & Edible Garden",
+			"isbns": [
+				"9780760372371"
+				
+			]
+		},
+		{
+			"label": "Composting for a New Generation",
+			"isbns": [
+				"9781591866923"
+			]
+		},
+		{
+			"label": "Plant Parenting",
+			"isbns": [
+				"9781604698725"
+
+			]
+		},
+		{
+			"label": "Fruit Trees",
+			"isbns": [
+				"9781604691900"
+				
+
+
+			]
+		},
+		{
+			"label": "The Edible Front Yard",
+			"isbns": [
+				"9781604691993"
+				
+			]
+		},
+		{
+			"label": "Pruning Simplified",
+			"isbns": [
+				"9781604698886"
+				
+
+			]
+		}
+	]
+}
